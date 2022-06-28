@@ -1,0 +1,8 @@
+[
+  {
+    "command": "hello:org",
+    "plugin": "@salesforce/plugin-template",
+    "flags": ["apiversion", "force", "json", "location", "loglevel", "name", "targetdevhubusername", "targetusername"],
+    "alias": []
+  }
+]
